@@ -1,0 +1,21 @@
+Phase,Topic,Visual_Learning_Focus,Recommended_Platform,Estimated_Time_Weeks
+Foundation,Programming Fundamentals,Code execution flow,Python Tutor,2
+Foundation,Big O Notation,Growth rate visualization,VisuAlgo,1
+Foundation,Time Complexity,Step counting,VisuAlgo,1
+Foundation,Space Complexity,Memory usage,VisuAlgo,1
+Basic Data Structures,Arrays and Strings,"Memory layout, indexing",Algorithm Visualizer,2
+Basic Data Structures,Linked Lists,Pointer manipulation,VisuAlgo,2
+Basic Data Structures,Stacks and Queues,LIFO/FIFO operations,CS USF Visualizations,2
+Basic Data Structures,Hash Tables,Hash function visualization,VisuAlgo,2
+Basic Algorithms,Linear Search,Sequential scanning,Algorithm Visualizer,1
+Basic Algorithms,Binary Search,Divide and conquer,VisuAlgo,1
+Basic Algorithms,"Basic Sorting (Bubble, Selection, Insertion)",Element swapping animations,Algorithm Visualizer,2
+Advanced Data Structures,Binary Trees,"Tree structure, traversals",VisuAlgo,3
+Advanced Data Structures,Graph Representation,"Node connections, adjacency",CS USF Visualizations,2
+Advanced Data Structures,Heaps and Priority Queues,Tree property maintenance,VisuAlgo,2
+Advanced Algorithms,Graph Traversal (DFS/BFS),Path exploration,VisuAlgo,3
+Advanced Algorithms,"Advanced Sorting (Merge, Quick, Heap)","Divide and conquer, partitioning",Algorithm Visualizer,3
+Advanced Algorithms,Dynamic Programming,Subproblem visualization,VisuAlgo,4
+Problem Solving,Two Pointers,Pointer movement,DSA Visualizer,2
+Problem Solving,Sliding Window,Window expansion/contraction,Programiz PRO,2
+Problem Solving,Backtracking,Decision tree exploration,Algorithm Visualizer,3
